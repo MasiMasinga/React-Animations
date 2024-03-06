@@ -1,6 +1,6 @@
 import Header from '../components/Header.jsx';
 import Challenges from '../components/Challenges.jsx';
-import ChallengesContextProvider from '../store/challenges-context.jsx';
+import ChallengesContextProvider from '../store/ChallengesContext.jsx';
 
 export default function ChallengesPage() {
     return (
